@@ -1,0 +1,11 @@
+{
+  "name": "contactmanagerapp",
+  "version": "1.0.0",
+  "description": "This is is an express project for my contact manager app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
